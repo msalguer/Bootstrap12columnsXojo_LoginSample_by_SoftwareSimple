@@ -1,4 +1,4 @@
-# Bootstrap12columnsXojo_LoginSample_by_SoftwareSimple
+# Bootstrap12columnsXojo and Login Sample by SoftwareSimple
 Implements Responsive 12-columns like bootstrap and styles on Xojo (RealBasic). (2016r3 version).
 
 Only works with native WebControls.
@@ -12,6 +12,12 @@ Features:
 - Bootstrap styles for WebLabel (partial), WebTextField and WebButtonField (only primary button).
 - 34px width text controls (forced by CSS code)
 - Only columns Layout. For rows, at the moment is defined and positioned by xojo IDE.
+
+License:
+MIT License<br>
+Copyright (c) 2016 Software Simple - Manuel Salguero<br>
+http://softwaresimple.es <br>
+http://msalguero.com.es
 
 ------
 Other licenses:
