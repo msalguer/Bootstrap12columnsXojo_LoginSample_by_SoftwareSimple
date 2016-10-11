@@ -12,6 +12,7 @@ Features:
 - Bootstrap styles for WebLabel (partial), WebTextField and WebButtonField (only primary button).
 - 34px width text controls (forced by CSS code)
 - Only columns Layout. For rows, at the moment is defined and positioned by xojo IDE.
+- You can define left and right column padding, when call the principal function that paints all controls: **_BTResizeAllWebCtrl()_**
 - Login Responsive WebPage Sample.
 - Design by Xojo Web Version, although it might work for desktop version with small changes.
 
