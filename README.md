@@ -13,6 +13,7 @@ Features:
 - 34px width text controls (forced by CSS code)
 - Only columns Layout. For rows, at the moment is defined and positioned by xojo IDE.
 - Login Responsive WebPage Sample.
+- Design by Xojo Web Version, although it might work for desktop version with small changes.
 
 License:
 MIT License<br>
