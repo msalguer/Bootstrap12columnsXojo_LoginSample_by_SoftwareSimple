@@ -16,9 +16,9 @@ Features:
 - Login Responsive WebPage Sample.
 - Design by Xojo Web Version, although it might work for desktop version with small changes.
 
-**Demo**
+~~**Demo**
 (Check with differents screen sizes o different devices. Note that this is a first version, which is not optimized for devices with small screens, although you could easily modify the source code for that they saw correctly.For login test: admin/pass):<br>
-http://demos.softwaresimple.es:8081/
+http://demos.softwaresimple.es:8081/~~
 
 License:
 MIT License<br>
